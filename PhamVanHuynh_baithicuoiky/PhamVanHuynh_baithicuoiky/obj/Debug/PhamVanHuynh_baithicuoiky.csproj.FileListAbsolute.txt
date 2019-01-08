@@ -1,0 +1,8 @@
+C:\Users\pham huynh\Documents\SharpDevelop Projects\PhamVanHuynh_baithicuoiky\PhamVanHuynh_baithicuoiky\bin\Debug\PhamVanHuynh_baithicuoiky.exe.config
+C:\Users\pham huynh\Documents\SharpDevelop Projects\PhamVanHuynh_baithicuoiky\PhamVanHuynh_baithicuoiky\bin\Debug\PhamVanHuynh_baithicuoiky.exe
+C:\Users\pham huynh\Documents\SharpDevelop Projects\PhamVanHuynh_baithicuoiky\PhamVanHuynh_baithicuoiky\bin\Debug\PhamVanHuynh_baithicuoiky.pdb
+C:\Users\pham huynh\Documents\SharpDevelop Projects\PhamVanHuynh_baithicuoiky\PhamVanHuynh_baithicuoiky\obj\Debug\PhamVanHuynh_baithicuoiky.csprojResolveAssemblyReference.cache
+C:\Users\pham huynh\Documents\SharpDevelop Projects\PhamVanHuynh_baithicuoiky\PhamVanHuynh_baithicuoiky\obj\Debug\PhamVanHuynh_baithicuoiky.MainForm.resources
+C:\Users\pham huynh\Documents\SharpDevelop Projects\PhamVanHuynh_baithicuoiky\PhamVanHuynh_baithicuoiky\obj\Debug\PhamVanHuynh_baithicuoiky.csproj.GenerateResource.Cache
+C:\Users\pham huynh\Documents\SharpDevelop Projects\PhamVanHuynh_baithicuoiky\PhamVanHuynh_baithicuoiky\obj\Debug\PhamVanHuynh_baithicuoiky.exe
+C:\Users\pham huynh\Documents\SharpDevelop Projects\PhamVanHuynh_baithicuoiky\PhamVanHuynh_baithicuoiky\obj\Debug\PhamVanHuynh_baithicuoiky.pdb
